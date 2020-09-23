@@ -1,4 +1,4 @@
-#Dissecando uma variável
+# Dissecando uma variável
 
 n1 = input('Digite algo: ')
 print('O tipo primitivo é ', type(n1))
